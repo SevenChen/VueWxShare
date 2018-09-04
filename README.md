@@ -9,7 +9,7 @@
 > }
 
 > 也可以写在 vue的跟组件里面
-
+> 根目录下 test.php 是取 微信jsdk 相关信息用的
 
 ## Build Setup
 npm install
@@ -23,3 +23,7 @@ npm run build
 # 项目中用到了 axios ，weixin-js-sdk
 
 # 例子：查看 test.vue HelloWorld.vue
+# gwshare.vue 是单独为mnews开发的
+
+#mnews 测试地址：http://dzhzqfwhalpha.gw.com.cn/index.html#/?jsonurl=http%3A%2F%2Fdzhzqfwhalpha.gw.com.cn%2Fstatic%2F260877.json
+#需要外网域名测试

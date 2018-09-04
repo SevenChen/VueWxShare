@@ -31,6 +31,6 @@ new Vue({
   	}
   }*/
   created() {
-  	wxshare.do()
+  	//wxshare.do()
   }
 })
